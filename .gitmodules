@@ -1,0 +1,3 @@
+[submodule "nlw/nlw/mobile"]
+	path = nlw/nlw/mobile
+	url = git@github.com:PjBierhals/NLW_IGNITE_COPA.git
